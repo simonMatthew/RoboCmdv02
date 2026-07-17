@@ -10,7 +10,8 @@ int main() {
         "Turn Left",
         "Move Right",
         "Move Forward",
-        "Stop"
+        "Stop",
+        "speed down"
     };
 
     for (const std::string& cmd : cmds) {
