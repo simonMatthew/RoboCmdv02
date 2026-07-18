@@ -1,5 +1,7 @@
 # RoboCmd - control your robot motion
 
+![img](.images/test.png)
+
 This program is wirted by c++ and you can move your robot motion.
 
 requirement :
