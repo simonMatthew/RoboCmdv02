@@ -12,7 +12,8 @@ int main() {
         "Move Forward",
         "Stop",
         "speed down",
-        "vel up"
+        "vel up",
+        "test_test"
     };
 
     for (const std::string& cmd : cmds) {
