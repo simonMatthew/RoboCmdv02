@@ -11,7 +11,8 @@ int main() {
         "Move Right",
         "Move Forward",
         "Stop",
-        "speed down"
+        "speed down",
+        "vel up"
     };
 
     for (const std::string& cmd : cmds) {
