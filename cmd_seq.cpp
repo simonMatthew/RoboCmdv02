@@ -19,7 +19,7 @@ int main() {
 	auto now = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
 	std::cout << std::ctime(&now);
         std::cout << "Robot performs: " << cmd << std::endl;
-        sleep(1);  // 1초 대기
+        sleep(2);  // 1초 대기
     }
     return 0;
 }
