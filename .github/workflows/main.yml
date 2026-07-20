@@ -22,3 +22,10 @@ jobs:
           cd build
           cmake ..
           make
+          
+      - name: Upload generated executables
+        uses: actions/upload-artifact@v4
+        with:
+          name: robot-command-executable
+          path: build/robot_cmd_sequene
+          retention-days: 7
