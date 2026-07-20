@@ -1,5 +1,5 @@
 # RoboCmd - control your robot motion
-
+[![build-test](https://github.com/simonMatthew/RoboCmdv02/actions/workflows/main.yml/badge.svg)](https://github.com/simonMatthew/RoboCmdv02/actions/workflows/main.yml)
 ![img](.images/test.png)
 
 This program is wirted by c++ and you can move your robot motion.
